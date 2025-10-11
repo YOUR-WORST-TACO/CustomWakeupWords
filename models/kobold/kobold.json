@@ -2,7 +2,7 @@
   "type": "micro",
   "wake_word": "hey kobold",
   "author": "Stephen Tafoya",
-  "website": "https://github.com/YOUR-WORST-TACO/CustomWakeupWords"
+  "website": "https://github.com/YOUR-WORST-TACO/CustomWakeupWords",
   "model": "hey_kobold.tflite",
   "trained_languages": [
     "en"
