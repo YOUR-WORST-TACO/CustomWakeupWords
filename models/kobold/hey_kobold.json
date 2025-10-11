@@ -1,8 +1,8 @@
 {
   "type": "micro",
-  "wake_word": "hey kobold",
-  "author": "Stephen Tafoya",
-  "website": "https://github.com/YOUR-WORST-TACO/CustomWakeupWords",
+  "wake_word": "hey_kobold",
+  "author": "Taco",
+  "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
   "model": "hey_kobold.tflite",
   "trained_languages": [
     "en"
